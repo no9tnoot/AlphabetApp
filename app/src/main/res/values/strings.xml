@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Alphabet</string>
+    <string name="next">next</string>
+    <string name="first">first</string>
+    <string name="last">last</string>
+    <string name="previous">previous</string>
+    <string name="overview">overview</string>
+    <string name="image">image</string>
+</resources>
